@@ -1,0 +1,216 @@
+Acc	Subgenus	Genus	Country	Continent	Brazilian State	Biome	Host	Name	Collection_Date
+AY532270	Tegacovirus	Alphacoronavirus				Other	Acinonyx jubatus 	Acinonyx jubatus coronavirus	
+DQ648831	Unclassified	Alphacoronavirus				Other	Chiroptera	Bat coronavirus	
+EF544563	Colacovirus	Alphacoronavirus	USA	North America		Other	Chiroptera	Rocky Mountain Bat Coronavirus 11	2006-08
+EF544565	Colacovirus	Alphacoronavirus	USA	North America		Other	Chiroptera	Rocky Mountain Bat Coronavirus 48	2006-08
+EU769558	Unclassified	Alphacoronavirus	Trinidad and Tobago	Central America		Tropical RainForest	Glossophaga soricina	Bat coronavirus Trinidad CO7BA	2007
+FJ710045	Duvinacovirus	Alphacoronavirus	Ghana	Africa		Other	Hipposideros	Bat coronavirus Hipposideros	2008
+FJ710053	Duvinacovirus	Alphacoronavirus	Ghana	Africa		Other	Hipposideros	Bat coronavirus Hipposideros	2008
+HQ184058	Nyctacovirus	Alphacoronavirus	Spain	Europe		Other	Pipistrellus kuhlii	Alphacoronavirus P.kuh	2007
+JQ731784	Unclassified	Alphacoronavirus	Panama	Central America		Tropical RainForest	Artibeus jamaicensis	Coronavirus BtCoV KP256	2010
+JQ731786	Unclassified	Alphacoronavirus	Panama	Central America		Tropical RainForest	Artibeus jamaicensis	Coronavirus BtCoV KP565	2010
+JQ731789	Unclassified	Alphacoronavirus	Costa Rica	Central America		Tropical RainForest	Carollia perspicillata	Coronavirus BtCoV KCR253 	2010
+JQ731790	Unclassified	Alphacoronavirus	Costa Rica	Central America		Tropical RainForest	Carollia perspicillata	Coronavirus BtCoV KCR252	2010
+JQ731791	Unclassified	Alphacoronavirus	Costa Rica	Central America		Tropical RainForest	Carollia perspicillata	Coronavirus BtCoV KCR91	2010
+JQ731793	Unclassified	Alphacoronavirus	Costa Rica	Central America		Tropical RainForest	Carollia perspicillata	Coronavirus BtCoV KCR216	2010
+JQ731794	Unclassified	Alphacoronavirus	Brazil	South America	Bahia	Caatinga	Carollia perspicillata	Coronavirus BtCoV BRA100	2009
+JQ731795	Unclassified	Alphacoronavirus	Brazil	South America	Bahia	Caatinga	Carollia brevicauda	Coronavirus BtCoV BRA114	2009
+JQ731796	Unclassified	Alphacoronavirus	Brazil	South America	Bahia	Caatinga	Carollia perspicillata	Coronavirus BtCoV BRA118	2009
+JQ731797	Unclassified	Alphacoronavirus	Brazil	South America	Bahia	Caatinga	Carollia brevicauda	Coronavirus BtCoV BRA344	2009
+JQ731798	Unclassified	Alphacoronavirus	Brazil	South America	Bahia	Caatinga	Carollia perspicillata	Coronavirus BtCoV BRA119	2009
+JQ731801	Unclassified	Alphacoronavirus	Costa Rica	Central America		Tropical RainForest	Carollia perspicillata	Coronavirus BtCoV KCR372	2010
+KC779225.2	Unclassified	Alphacoronavirus	Costa Rica	Central America		Tropical RainForest	Chiroptera	Bat coronavirus Cpt114	2012
+KC779226	Unclassified	Alphacoronavirus	Costa Rica	Central America		Tropical RainForest	Chiroptera	Bat coronavirus Aju21	2012
+KF294282	Minunacovirus	Alphacoronavirus	China	Asia		Other	Miniopterus schreibersii	Bat coronavirus Neixiang64	2012
+KJ020585	Minunacovirus	Alphacoronavirus	Thailand	Asia		Other	Miniopterus schreibersii	Bat coronavirus B311 2	2008-07
+KJ020587	Minunacovirus	Alphacoronavirus	Thailand	Asia		Other	Miniopterus schreibersii	Bat coronavirus BtCoV B311 4	2008-07
+KJ020591	Minunacovirus	Alphacoronavirus	Thailand	Asia		Other	Miniopterus schreibersii	Bat coronavirus BtCoV B124	2008-05
+KJ020597	Minunacovirus	Alphacoronavirus	Thailand	Asia		Other	Miniopterus schreibersii	Bat coronavirus BtCoVB338	2008-07
+KJ473798	Minunacovirus	Alphacoronavirus	China	Asia		Other	Miniopterus fuliginosus	BtMf AlphaCoV HuB2013	2013
+KJ473799	Minunacovirus	Alphacoronavirus	China	Asia		Other	Miniopterus fuliginosus	BtMf AlphaCoV FJ2012	2012
+KJ473800	Minunacovirus	Alphacoronavirus	China	Asia		Other	Miniopterus fuliginosus	BtMf AlphaCoV HeN2013	2013
+KM215147	Unclassified	Alphacoronavirus	Costa Rica	Central America		Tropical RainForest	Artibeus	Bat coronavirus strain BatCoV2	01/02/2014
+KP876508	Minunacovirus	Alphacoronavirus	China	Asia		Other	Miniopterus schreibersii	Miniopterus bat coronavirus BtCoV 4068_2	2012-09
+KP876520	Minunacovirus	Alphacoronavirus	China	Asia		Other	Miniopterus schreibersii	Miniopterus bat coronavirus BtCoV 4036_2	2012-09
+KP876522	Minunacovirus	Alphacoronavirus	China	Asia		Other	Miniopterus schreibersii	Miniopterus bat coronavirus BtCoV 3728_2	2012-08
+KP876524	Minunacovirus	Alphacoronavirus	China	Asia		Other	Miniopterus schreibersii	Miniopterus bat coronavirus BtCoV 4056_2	2012-09
+KP876533	Minunacovirus	Alphacoronavirus	China	Asia		Other	Rhinolophus sinicus	Rhinolophus bat coronavirus BtCoV 3992_2	2012-09
+KP876535	Minunacovirus	Alphacoronavirus	China	Asia		Other	Miniopterus fuscus	Miniopterus bat coronavirus BtCoV 4023_2	2012-09
+KP876542	Minunacovirus	Alphacoronavirus	China	Asia		Other	Miniopterus schreibersii	Miniopterus bat coronavirus BtCoV 3767	2012-08
+KP876543	Minunacovirus	Alphacoronavirus	China	Asia		Other	Miniopterus fuscus	Miniopterus bat coronavirus BtCoV 4040	2012-09
+KP876544	Minunacovirus	Alphacoronavirus	China	Asia		Other	Rhinolophus affinis	Rhinolophus bat coronavirus BtCoV 3994	2012-09
+KP876545	Minunacovirus	Alphacoronavirus	China	Asia		Other	Rhinolophus sinicus	Rhinolophus bat coronavirus BtCov 3990	2012-09
+KT717383	Unclassified	Alphacoronavirus	Brazil	South America	Parana	Atlantic RainForest	Carollia perspicillata	Bat coronavirus 1514	2011
+KT717385	Unclassified	Alphacoronavirus	Brazil	South America	Parana	Atlantic RainForest	Carollia perspicillata	Bat coronavirus 1599	2012
+KT717387	Unclassified	Alphacoronavirus	Brazil	South America	Sao Paulo	Atlantic RainForest	Glossophaga soricina	Bat coronavirus 100	2014
+KU343192	Minunacovirus	Alphacoronavirus	China	Asia		Other	Miniopterus fuscus	Bat coronavirus MfusBtCoV 4023_2	16/09/2012
+KU552072	Unclassified	Alphacoronavirus	Brazil	South America	Sao Paulo	Atlantic RainForest	Desmodus rotundus	Bat coronavirus 4292	2013
+KU552074	Unclassified	Alphacoronavirus	Brazil	South America	Sao Paulo	Atlantic RainForest	Glossophaga soricina	Bat coronavirus 4620	2013
+KX094982	Unclassified	Alphacoronavirus	Brazil	South America	Rio Grande do Sul	Atlantic RainForest	Molossus molossus	Bat coronavirus strain 328_11	2011-02
+KX094983	Unclassified	Alphacoronavirus	Brazil	South America	Rio Grande do Sul	Atlantic RainForest	Glossophaga soricina	Bat coronavirus strain 169_11	2011-01
+KX285047	Unclassified	Alphacoronavirus	Bolivia			Tropical RainForest	Carollia perspicillata	Alphacoronavirus Trinidad 1FY2BA	22/03/2011
+KX285048	Unclassified	Alphacoronavirus	Bolivia			Tropical RainForest	Carollia perspicillata	Alphacoronavirus Trinidad 1FY2BA	22/03/2011
+KX285050	Unclassified	Alphacoronavirus	Bolivia			Tropical RainForest	Carollia perspicillata	Alphacoronavirus Trinidad 1FY2BA	07/06/2011
+KX285054	Unclassified	Alphacoronavirus	Brazil	South America	Para	Amazonia	Lichonycteris obscura	Coronavirus PREDICT CoV13 Araguari49	28/09/2009
+KX285056	Unclassified	Alphacoronavirus	Brazil	South America	Para	Amazonia	Carollia perspicillata	Alphacoronavirus Trinidad 1FY2BA Araguari67	28/09/2009
+KX285057	Unclassified	Alphacoronavirus	Brazil	South America	Para	Amazonia	Carollia perspicillata	Alphacoronavirus Trinidad 1FY2BA Araguari69	28/09/2009
+KX285063	Unclassified	Alphacoronavirus	Brazil	South America	Para	Amazonia	Glossophaginae	Coronavirus PREDICT CoV18 BATMG11	08/10/2010
+KX285069	Unclassified	Alphacoronavirus	Brazil	South America	Roraima	Amazonia	Carollia perspicillata	Alphacoronavirus Trinidad 1FY2BA	20/11/2011
+KX285466	Minunacovirus	Alphacoronavirus	Thailand	Asia		Other	Miniopterus magnater	Miniopterus bat coronavirus HKU8	24/11/2013
+KY780381	Unclassified	Alphacoronavirus	Italy	Europe		Other	Myotis nattereri	Bat coronavirus isolate Mnat560_IT_13	2013
+KY780382	Unclassified	Alphacoronavirus	Italy	Europe		Other	Myotis nattereri	Bat coronavirus isolate Mnat562_IT_13	2013
+KY780384	Nyctacovirus	Alphacoronavirus	Italy	Europe		Other	Pipistrellus pipistrellus	Bat coronavirus isolate Ppip1000_IT_14	2014
+KY780385	Nyctacovirus	Alphacoronavirus	Italy	Europe		Other	Pipistrellus pipistrellus	Bat coronavirus isolate Ppip1015C_IT_14	2014
+KY780388	Unclassified	Alphacoronavirus	Italy	Europe		Other	Rhinolophus ferrumequinum	Bat coronavirus isolate Rfer4009_IT_16	2016
+KY780389	Unclassified	Alphacoronavirus	Italy	Europe		Other	Rhinolophus ferrumequinum	Bat coronavirus isolate Rfer4011_IT_16	2016
+KY780395	Unclassified	Alphacoronavirus	Italy	Europe		Other	Myotis oxygnathus	Bat coronavirus isolate Moxy4235_IT_16	2016
+KY780397	Unclassified	Alphacoronavirus	Italy	Europe		Other	Myotis myotis	Bat coronavirus isolate Mmyo4658_IT_16	2016
+MG252875	Nyctacovirus	Alphacoronavirus	South Africa	Africa		Other	Afronycteris nana	Bat alphacoronavirus strain BtCoV 20160906_DC93	06/09/2016
+MG916901	Decacovirus	Alphacoronavirus	China	Asia		Other	Rhinolophus	Bat coronavirus isolate BtCoV RhYN2012 Rs3376	19/05/2012
+MK211373	Decacovirus	Alphacoronavirus	China	Asia		Other	Cynopterus sphinx	Coronavirus BtRs AlphaCoV YN2018	2017-05
+MK603152	Myotacovirus	Alphacoronavirus	Kazakhstan	Asia		Other	Chiroptera	Bat alphacoronavirus RIBSP KZ BatCoV7	2017
+MK603153	Myotacovirus	Alphacoronavirus	Kazakhstan	Asia		Other	Chiroptera	Bat alphacoronavirus RIBSP KZ BatCoV 11	2017
+MK603161	Myotacovirus	Alphacoronavirus	Kazakhstan	Asia		Other	Chiroptera	Bat alphacoronavirus RIBSP KZ BatCoV 66	2017
+MK991948	Minunacovirus	Alphacoronavirus	South Korea	Asia		Other	Myotis macropus	Bat coronavirus B18 183	24/10/2018
+MK991951	Minunacovirus	Alphacoronavirus	South Korea	Asia		Other	Miniopterus schreibersii	Bat coronavirus B18 198	25/12/2018
+MN183146	Unclassified	Alphacoronavirus	Mozambique	Africa		Other	Rhinolophus rhodesiae	Bat coronavirus isolate 19020	05/02/2015
+MN183152	Unclassified	Alphacoronavirus	Mozambique	Africa		Other	Rhinolophus	Bat coronavirus isolate 19026	06/02/2015
+MN183155	Unclassified	Alphacoronavirus	Mozambique	Africa		Other	Rhinolophus lobatus	Bat coronavirus isolate 18991	04/02/2015
+MN183156	Unclassified	Alphacoronavirus	Mozambique	Africa		Other	Rhinolophus lobatus	Bat coronavirus isolate 18992	04/02/2015
+MN183162	Unclassified	Alphacoronavirus	Mozambique	Africa		Other	Triaenops afer	Bat coronavirus isolate 18958	03/02/2015
+MN183163	Unclassified	Alphacoronavirus	Mozambique	Africa		Other	Triaenops afer	Bat coronavirus isolate 18996	04/02/2015
+MN183164	Unclassified	Alphacoronavirus	Mozambique	Africa		Other	Triaenops afer	Bat coronavirus isolate 19154	24/05/2015
+MN183165	Unclassified	Alphacoronavirus	Mozambique	Africa		Other	Triaenops afer	Bat coronavirus isolate 19174	24/05/2015
+MN183166	Unclassified	Alphacoronavirus	Mozambique	Africa		Other	Triaenops afer	Bat coronavirus isolate 19183	24/05/2015
+MN183167	Unclassified	Alphacoronavirus	Mozambique	Africa		Other	Triaenops afer	Bat coronavirus isolate 18997	04/02/2015
+MN183168	Unclassified	Alphacoronavirus	Mozambique	Africa		Other	Triaenops afer	Bat coronavirus isolate 18993	04/02/2015
+MN183169	Setracovirus	Alphacoronavirus	Mozambique	Africa		Other	Triaenops afer	Bat coronavirus isolate 19185	24/05/2015
+MN183184	Unclassified	Alphacoronavirus	Madagascar	Africa		Other	Mormopterus jugularis	Bat coronavirus isolate 18223	17/03/2013
+MN183189	Rhinacovirus	Alphacoronavirus	Mozambique	Africa		Other	Rhinolophus lobatus	Bat coronavirus isolate 19029	05/02/2015
+MN312284	Minunacovirus	Alphacoronavirus	China	Asia		Other	Miniopterus fuliginosus	Miniopterus HKU8 6607	
+MN312295	Minunacovirus	Alphacoronavirus	China	Asia		Other	Miniopterus fuscus	Miniopterus HKU8 7355	
+MN312297	Minunacovirus	Alphacoronavirus	China	Asia		Other	Miniopterus fuscus	Miniopterus HKU8 7360	
+MN312300	Minunacovirus	Alphacoronavirus	China	Asia		Other	Miniopterus fuscus	Miniopterus HKU8 7389	
+MN312313	Minunacovirus	Alphacoronavirus	Laos	Asia		Other	Miniopterus fuscus	Miniopterus HKU8 7562	
+MN312422	Minunacovirus	Alphacoronavirus	China	Asia		Other	Miniopterus fuliginosus	Miniopterus HKU8 6454_2	
+MN312503	Minunacovirus	Alphacoronavirus	China	Asia		Other	Miniopterus	Miniopterus HKU8 8653	
+MN312511	Minunacovirus	Alphacoronavirus	China	Asia		Other	Miniopterus schreibersii	Miniopterus HKU8 8680_1	
+MN312562	Minunacovirus	Alphacoronavirus	China	Asia		Other	Miniopterus	Miniopterus bat coronavirus HKU8 ML140028	
+MN312568	Minunacovirus	Alphacoronavirus	China	Asia		Other	Miniopterus fuscus	Miniopterus bat coronavirus HKU8 ML140094	
+MN872693	Unclassified	Alphacoronavirus	Brazil	South America	Sao Paulo	Atlantic RainForest	Artibeus planirostris	Bat coronavirus batCoV IDRC35	2012
+MN872696	Unclassified	Alphacoronavirus	Brazil	South America	Sao Paulo	Atlantic RainForest	Sturnira lilium	Bat coronavirus batCoV IDRC175	2012
+MN872698	Unclassified	Alphacoronavirus	Brazil	South America	Sao Paulo	Atlantic RainForest	Carollia perspicillata	Bat coronavirus batCoV IDRC193	2012
+MN872699	Unclassified	Alphacoronavirus	Brazil	South America	Sao Paulo	Atlantic RainForest	Carollia perspicillata	Bat coronavirus batCoV IDRC216	2012
+MN872700	Unclassified	Alphacoronavirus	Brazil	South America	Sao Paulo	Atlantic RainForest	Carollia perspicillata	Bat coronavirus batCoV IDRC229	2012
+MT083442	Unclassified	Alphacoronavirus	Peru	South America		Tropical RainForest	Carollia perspicillata	Bat coronavirus Trinidad 1FY2BA	04/06/2013
+MT125487	Duvinacovirus	Alphacoronavirus	Guinea	Asia		Other	Hipposideros ruber	Human coronavirus 229E 10033	24/01/2018
+MW249018	Unclassified	Alphacoronavirus	Peru	South America		Tropical RainForest	Desmodus rotundus	Bat coronavirus DesRot	2016
+MW450841	Minunacovirus	Alphacoronavirus	China	Asia		Other	Rhinolophus sinicus	Alphacoronavirus BF3 1 YN CHN	19/02/2020
+MW450842	Minunacovirus	Alphacoronavirus	China	Asia		Other	Rhinolophus sinicus	Alphacoronavirus BF3 2 YN CHN	19/02/2020
+MW450843	Minunacovirus	Alphacoronavirus	China	Asia		Other	Rhinolophus sinicus	Alphacoronavirus ATG20 YN CHN	19/02/2020
+MW465544	Unclassified	Alphacoronavirus	Brazil	South America	Rio Grande do Sul	Atlantic RainForest	Desmodus rotundus	Bat coronavirus 112	2019
+MW465545	Unclassified	Alphacoronavirus	Brazil	South America	Rio Grande do Sul	Atlantic RainForest	Desmodus rotundus	Bat coronavirus 120	2019
+MZ081388	Decacovirus	Alphacoronavirus	China	Asia		Other	Hipposideros larvatus	Alphacoronavirus Yunnan HlYN23	28/07/2020
+MZ467399	Minunacovirus	Alphacoronavirus	South Korea	Asia		Other	Chiroptera	Bat coronavirus 18BF147	
+NC_001846	Embecovirus	Betacoronavirus				Other	Mus musculus	Murine hepatitis virus MHVA59	
+NC_002306	Tegacovirus	Alphacoronavirus	USA	North America		Other	Felis catus	Feline infectious peritonitis virus	
+NC_002645	Duvinacovirus	Alphacoronavirus				Other	Homo sapiens	Human coronavirus 229E	
+NC_003045	Embecovirus	Betacoronavirus				Other	Bos taurus	Bovine coronavirus BCoV ENT	
+NC_003436	Pedacovirus	Alphacoronavirus				Other	Sus scrofa	Porcine epidemic diarrhea virus	
+NC_004718	Sarbecovirus	Betacoronavirus	Canada			Other	Homo sapiens	SARS coronavirus Tor2	
+NC_005831	Setracovirus	Alphacoronavirus				Other	Homo sapiens	Human Coronavirus NL63	
+NC_006213	Embecovirus	Betacoronavirus	USA	North America		Other	Homo sapiens	Human coronavirus OC43 ATCC VR759	
+NC_006577	Embecovirus	Betacoronavirus				Other	Homo sapiens	Human coronavirus HKU1	
+NC_009019	Merbecovirus	Betacoronavirus	China	Asia		Other	Chiroptera	Tylonycteris bat coronavirus HKU4	
+NC_009020	Merbecovirus	Betacoronavirus	China	Asia		Other	Chiroptera	Pipistrellus bat coronavirus HKU5	
+NC_009021	Nobecovirus	Betacoronavirus	China	Asia		Other	Chiroptera	Rousettus bat coronavirus HKU9	
+NC_009657	Pedacovirus	Alphacoronavirus				Other	Scotophilus	Scotophilus bat coronavirus 512	
+NC_009988	Rhinacovirus	Alphacoronavirus				Other	Rhinolophus	Rhinolophus bat coronavirus HKU2	
+NC_010437	Minunacovirus	Alphacoronavirus	Hong Kong	Asia		Other	Miniopterus	Bat coronavirus 1A	
+NC_010438	Minunacovirus	Alphacoronavirus	Hong Kong	Asia		Other	Miniopterus	Miniopterus bat coronavirus HKU8	
+NC_012936	Embecovirus	Betacoronavirus				Other	Rattus	Rat coronavirus Parker	
+NC_014470	Sarbecovirus	Betacoronavirus	Bulgaria			Other	Rhinolophus blasii	Bat coronavirus BM48 31 BGR	2008
+NC_017083	Embecovirus	Betacoronavirus	China	Asia		Other	Oryctolagus cuniculus	Rabbit coronavirus HKU14	2006
+NC_018871	Decacovirus	Alphacoronavirus	China	Asia		Other	Chiroptera	Rousettus bat coronavirus HKU10	2005-10
+NC_019843	Merbecovirus	Betacoronavirus				Other	Homo sapiens	MERSr CoV EMC	13/06/2012
+NC_022103	Colacovirus	Alphacoronavirus	USA	North America		Other	Myotis lucifugus	Bat coronavirus CDPHE15	07/08/2006
+NC_023760	Mincovirus	Alphacoronavirus	USA	North America		Other	Neogale vison	Mink coronavirus WD1127	01/01/1998
+NC_025217	Hibecovirus	Betacoronavirus	China	Asia		Other	Hipposideros pratti	Bat Hp betacoronavirus Zhejiang	29/04/2013
+NC_026011	Embecovirus	Betacoronavirus	China	Asia		Other	Rattus norvegicus	Betacoronavirus HKU24	17/05/2012
+NC_028752	Duvinacovirus	Alphacoronavirus	Saudi Arabia	Asia		Other	Camelus	Camel alphacoronavirus Ry141	2015-03
+NC_028806	Tegacovirus	Alphacoronavirus	Italy	Europe		Other	Sus scrofa	Swine enteric coronavirus 213306	04/09/2009
+NC_028811	Myotacovirus	Alphacoronavirus	China	Asia		Other	Myotis ricketti	BtMr AlphaCoV SAX2011	2011
+NC_028814	Decacovirus	Alphacoronavirus	China	Asia		Other	Rhinolophus ferrumequinum	BtRf AlphaCoV HuB2013	2013
+NC_028824	Rhinacovirus	Alphacoronavirus	China	Asia		Other	Rhinolophus ferrumequinum	BtRf AlphaCoV YN2012	2012
+NC_028833	Nyctacovirus	Alphacoronavirus	China	Asia		Other	Nyctalus velutinus	BtNv AlphaCoV SC2013	2013
+NC_030292	Mincovirus	Alphacoronavirus	Netherlands	Europe		Other	Mustela putorius	Ferret coronavirus FRCoV_NL	2010
+NC_030886	Nobecovirus	Betacoronavirus	China	Asia		Other	Rousettus leschenaultii	Rousettus bat coronavirus GCCDC1 356	28/05/2014
+NC_032107	Setracovirus	Alphacoronavirus	Kenya	Africa		Other	Triaenops afer	NL63 related bat coronavirus BtKYNL63_9a	21/06/2010
+NC_032730	Luchacovirus	Alphacoronavirus	China	Asia		Other	Rattus norvegicus	Lucheng Rn rat coronavirus	2013
+NC_034440	Merbecovirus	Betacoronavirus	Uganda	Africa		Other	Pipistrellus	Bat coronavirus PDF 2180	20/02/2013
+NC_034972	Luchacovirus	Alphacoronavirus	China	Asia		Other	Apodemus chevrieri	Coronavirus AcCoV JC34	2011-10
+NC_038294	Merbecovirus	Betacoronavirus	United Kingdom	Europe		Other	Homo sapiens	Betacoronavirus England 1 H123990006	11/09/2012
+NC_039207	Merbecovirus	Betacoronavirus	Germany	Europe		Other	Erinaceus europaeus	Betacoronavirus Erinaceus VMC DEU	2012
+NC_045512	Sarbecovirus	Betacoronavirus	China	Asia		Other	Homo sapiens	SARS CoV 2 WuhanHu1	2019-12
+NC_046954	Embecovirus	Betacoronavirus	China	Asia		Other	Myodes rufocanus	Rodent coronavirus RtMruf CoV 2	2014-08
+NC_046955	Unclassified	Unclassified	China	Asia		Other	Sorex araneus	Shrew coronavirus	2014-12
+NC_046964	Nyctacovirus	Alphacoronavirus	Italy	Europe		Other	Pipistrellus kuhlii	Alphacoronavirus3398-19	2015
+NC_048212	Nobecovirus	Betacoronavirus	Cameroon			Other	Eidolon helvum	Bat coronavirus	2013-12
+NC_048216	Unclassified	Alphacoronavirus	Kenya	Africa		Other	Triaenops afer	NL63-related bat coronavirus BtKYNL63	21/06/2010
+NC_048217	Embecovirus	Betacoronavirus				Other	Mus musculus	Murine hepatitis virus A59	
+NC_054015	Nyctacovirus	Alphacoronavirus	China	Asia		Other	Tylonycteris robustula	Tylonycteris bat coronavirus HKU33 GZ151867	09/09/2015
+NC_055953	Unclassified	Alphacoronavirus	Peru	South America		Tropical RainForest	Desmodus rotundus	Bat alphacoronavirus AMA_L_F	2015
+OK287353	Decacovirus	Alphacoronavirus	China	Asia		Other	Rhinolophus sinicus	Alphacoronavirus Yunnan_Rs_CX18c	2020-10
+OL405718	Minunacovirus	Alphacoronavirus	China	Asia		Other	Rhinolophus shameli	Miniopterus HKU8 Rsh4071	
+OM265165	Unclassified	Alphacoronavirus	Brazil	South America	Santa Catarina	Atlantic RainForest	Artibeus lituratus	Bat alphacoronavirus SC687	04/06/2021
+OM265173	Unclassified	Alphacoronavirus	Brazil	South America	Pernambuco	Caatinga	Carollia perspicillata	Bat alphacoronavirus PE272	11/02/2021
+OM265174	Unclassified	Alphacoronavirus	Brazil	South America	Pernambuco	Caatinga	Carollia perspicillata	Bat alphacoronavirus PE324	16/03/2021
+OM265181	Unclassified	Alphacoronavirus	Brazil	South America	Sao Paulo	Atlantic RainForest	Diphylla ecaudata	Bat alphacoronavirus SLC31	16/12/2020
+OM265205	Unclassified	Alphacoronavirus	Brazil	South America	Santa Catarina	Atlantic RainForest	Sturnira lilium	Bat alphacoronavirus SC689	04/06/2021
+OM480510	Minunacovirus	Alphacoronavirus	China	Asia		Other	Paguma larvata	Civet coronavirus HKU8 HuN FNA1	2020
+OP169164	Unclassified	Alphacoronavirus	Argentina			Other	Myotis sp.	Alphacoronavirus P207 20	2020
+OQ134965	Tegacovirus	Alphacoronavirus	Italy	Europe		Other	Felis catus	Feline coronavirus 100675	2021
+OQ175053	Decacovirus	Alphacoronavirus	China	Asia		Other	Rhinolophus sinicus	Bat Coronavirus RsYN16 BtRs AlphaCoV YN2016 Q33	2016
+OQ175055	Decacovirus	Alphacoronavirus	China	Asia		Other	Rhinolophus sinicus	Bat Coronavirus RsYN16 BtRs AlphaCoV YN2016 Q35	2016
+OQ175130	Nyctacovirus	Alphacoronavirus	China	Asia		Other	Tylonycteris robustula	Bat Coronavirus TrGZ19 BtTr AlphaCoV GZ2019 Q110	2019
+OQ175256	Minunacovirus	Alphacoronavirus	China	Asia		Other	Miniopterus pusillus	Bat Coronavirus MpYN20 BtMp AlphaCoV YN2020 Q69	18/06/2020
+OQ175266	Minunacovirus	Alphacoronavirus	China	Asia		Other	Miniopterus schreibersii	Bat Coronavirus MsGD16 BtMs AlphaCoV GD2016 Q74	26/06/2016
+OQ175268	Minunacovirus	Alphacoronavirus	China	Asia		Other	Miniopterus schreibersii	Bat Coronavirus MsGD16 BtMs AlphaCoV GD2016 Q75	26/06/2016
+OQ175270	Minunacovirus	Alphacoronavirus	China	Asia		Other	Miniopterus schreibersii	Bat Coronavirus MsYN20 BtMs AlphaCoV YN2020 Q76	15/06/2020
+OQ175271	Minunacovirus	Alphacoronavirus	China	Asia		Other	Miniopterus schreibersii	Bat Coronavirus MsYN20 BtMs AlphaCoV YN2020 Q77	15/06/2020
+OQ175291	Minunacovirus	Alphacoronavirus	China	Asia		Other	Miniopterus schreibersii	Bat Coronavirus MsGD16 BtMs AlphaCoV GD2016 Q79	2016
+OQ175326	Minunacovirus	Alphacoronavirus	China	Asia		Other	Miniopterus schreibersii	Bat Coronavirus MsYN20 BtMs AlphaCoV YN2020 Q80	2020
+OQ175329	Minunacovirus	Alphacoronavirus	China	Asia		Other	Miniopterus schreibersii	Bat Coronavirus MsYN20 BtMs AlphaCoV YN2020 Q81	2020
+OQ175528	Minunacovirus	Alphacoronavirus	China	Asia		Other	Miniopterus pusillus	Bat Coronavirus MpYN20 BtMp AlphaCoV YN2020 P178	18/06/2020
+OQ175536	Minunacovirus	Alphacoronavirus	China	Asia		Other	Miniopterus schreibersii	Bat Coronavirus MsGD16 BtMs AlphaCoV GD2016 P186	26/06/2016
+OQ175538	Minunacovirus	Alphacoronavirus	China	Asia		Other	Miniopterus schreibersii	Bat Coronavirus MsGD16 BtMs AlphaCoV GD2016 P188	26/06/2016
+OQ175546	Minunacovirus	Alphacoronavirus	China	Asia		Other	Myotis ricketti	Bat Coronavirus MrGD17 BtMr AlphaCoV GD2017 P196	07/06/2017
+OQ297715	Minunacovirus	Alphacoronavirus	China	Asia		Other	Miniopterus schreibersii	Miniopterus bat coronavirus HKU8 GDL175	2022-08
+OR250034	Unclassified	Alphacoronavirus	Colombia	South America		Tropical RainForest	Artibeus jamaicensis	Bat alphacoronavirus isolate batCov COL2022	25/01/2022
+OR596326	Unclassified	Alphacoronavirus	Brazil	South America	Rio de Janeiro	Atlantic RainForest	Artibeus lituratus	Alphacoronavirus BatCoV RJ FIOCRUZ A210104	15/03/2021
+OR596328	Unclassified	Alphacoronavirus	Brazil	South America	Rio de Janeiro	Atlantic RainForest	Artibeus lituratus	Alphacoronavirus BatCoV RJ FIOCRUZ A21132	15/03/2021
+OR805809	Unclassified	Alphacoronavirus	Brazil	South America	Ceara	Caatinga	Carollia perspicillata	Bat alphacoronavirus BatCoV CE FIOCRUZ A220424	16/03/2022
+OR805810	Unclassified	Alphacoronavirus	Brazil	South America	Ceara	Caatinga	Carollia perspicillata	Bat alphacoronavirus BatCoV CE FIOCRUZ A220428	17/03/2022
+OR805813	Unclassified	Alphacoronavirus	Brazil	South America	Ceara	Caatinga	Platyrrhinus lineatus	Bat alphacoronavirus BatCoV CE FIOCRUZ A220364	15/03/2022
+OR805817	Unclassified	Alphacoronavirus	Brazil	South America	Ceara	Caatinga	Platyrrhinus recifinus	Bat alphacoronavirus BatCoV CE FIOCRUZ A220474	13/03/2022
+OR805818	Unclassified	Alphacoronavirus	Brazil	South America	Ceara	Caatinga	Glossophaga soricina	Bat alphacoronavirus BatCoV CE FIOCRUZ A220478	13/03/2022
+OR805819	Unclassified	Alphacoronavirus	Brazil	South America	Ceara	Caatinga	Glossophaga soricina	Bat alphacoronavirus BatCoV CE FIOCRUZ A220507	19/03/2022
+OR805820	Unclassified	Alphacoronavirus	Brazil	South America	Ceara	Caatinga	Carollia perspicillata	Bat alphacoronavirus BatCoV CE FIOCRUZ A220509	19/03/2022
+PP819532	Unclassified	Alphacoronavirus	Portugal	Europe		Other	Sus scrofa	Bat coronavirus isolate B23_165	2023
+PP819533	Unclassified	Alphacoronavirus	Portugal	Europe		Other	Sus scrofa	Bat coronavirus isolate B23_167	2023
+PP819536	Unclassified	Alphacoronavirus	Portugal	Europe		Other	Sus scrofa	Bat coronavirus isolate B23_163	2023
+PP869946	Unclassified	Alphacoronavirus	Mexico	North America		Tropical RainForest	Artibeus jamaicensis	Bat alphacoronavirus COM194C	13/06/2022
+PP869950	Unclassified	Alphacoronavirus	Mexico	North America		Tropical RainForest	Sturnira parvidens	Bat alphacoronavirus LM28C	13/10/2021
+PP869952	Unclassified	Alphacoronavirus	Mexico	North America		Tropical RainForest	Artibeus jamaicensis	Bat alphacoronavirus LM29C	13/10/2021
+PP869955	Unclassified	Alphacoronavirus	Mexico	North America		Tropical RainForest	Glossophaga mutica	Bat alphacoronavirus MEM270C	30/06/2022
+PP869957	Unclassified	Alphacoronavirus	Mexico	North America		Tropical RainForest	Glossophaga mutica	Bat alphacoronavirus MEM273C	30/06/2022
+PP869959	Unclassified	Alphacoronavirus	Mexico	North America		Tropical RainForest	Artibeus jamaicensis	Bat alphacoronavirus MEM292C	01/07/2022
+PP977518	Unclassified	Alphacoronavirus	Spain		Europe	Other	Sus scrofa	Bat coronavirus F23_84	2023
+PQ493292	Unclassified	Alphacoronavirus	Brazil	South America	Mato Grosso	Pantanal	Carollia perspicillata	Bat alphacoronavirus SP04	10/07/2021
+PQ493293	Unclassified	Alphacoronavirus	Brazil	South America	Mato Grosso	Pantanal	Carollia perspicillata	Bat alphacoronavirus SL61	26/08/2021
+PQ493294	Unclassified	Alphacoronavirus	Brazil	South America	Mato Grosso	Pantanal	Carollia perspicillata	Bat alphacoronavirus SL64	26/08/2021
+PQ493295	Unclassified	Alphacoronavirus	Brazil	South America	Mato Grosso	Pantanal	Carollia perspicillata	Bat alphacoronavirus SL74	26/08/2021
+PQ493296	Unclassified	Alphacoronavirus	Brazil	South America	Mato Grosso	Pantanal	Desmodus rotundus	Bat alphacoronavirus JS199	23/07/2021
+PQ493297	Unclassified	Alphacoronavirus	Brazil	South America	Mato Grosso	Pantanal	Phyllostomus discolor	Bat alphacoronavirus JS185	15/07/2021
+PV449172	Unclassified	Alphacoronavirus	Brazil	South America	Mato Grosso	Cerrado	Anoura caudifer		17/06/2023
+PV449173	Unclassified	Alphacoronavirus	Brazil	South America	Mato Grosso	Cerrado	Carollia brevicauda		20/06/2023
