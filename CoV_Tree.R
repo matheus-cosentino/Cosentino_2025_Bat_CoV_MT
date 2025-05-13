@@ -25,13 +25,13 @@ cores_biomas <- c(
   
 
 # load tree file and root by midpoint
-tree <- read.tree(file = "90_edited_nt_aln.fasta.treefile") %>%
+tree <- read.tree(file = "90_trim_Cosentino_CoV_nt_aln.treefile") %>%
   midpoint_root()
 
 tree$tip.label
 
 ###Read in metadata
-metadata_df <- read.table("metadata_new.txt", sep = "\t", header = T, as.is = T, fill = T)
+metadata_df <- read.table("Cosentino_CoV_Metadata.txt", sep = "\t", header = T, as.is = T, fill = T)
 
 metadata_df$organism_name <- paste(metadata_df$Acc, "CoV",
                                    metadata_df$Host, metadata_df$Country,
