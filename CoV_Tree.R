@@ -1,4 +1,4 @@
-# Script para plotar arvore de anello
+# Script para plotar arvore de CoV
 # colocar no diretorio
 setwd("C:/Users/macos/OneDrive/Doutorado/Novel_Virus/CoV_Sinop/BLAST/")
 dir.create("Rtree")
@@ -85,4 +85,5 @@ ggsave("Rtree/zoom_phylo_246.svg", width = 24, height = 30, units= "cm", limitsi
 
 zoomClade(p1 , node = 282, xexpand = 0.001)
 ggsave("Rtree/zoom_phylo_282.svg", width = 24, height = 30, units= "cm", limitsize = FALSE )
+
 
